@@ -1,0 +1,20 @@
+header{
+    background-color: blue;
+    color: aqua;
+    text-align: center;
+    max-width: 800px;
+    margin:0 auto;
+    padding: 16px;
+}
+
+main{
+    background-color: brown;
+    color: burlywood;
+    max-width: 800px;
+    margin: 0auto;
+    padding: 16px;
+}
+
+article{
+    display: flex;
+    
