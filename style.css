@@ -1,37 +1,29 @@
-header{
-    background-color: blue;
-    color: aqua;
+header {
+    background-color: rgb(253, 29, 29);
+    color: rgb(250, 138, 34);
     text-align: center;
     max-width: 800px;
-    margin:0 auto;
+    margin: 0 auto;
     padding: 16px;
 }
 
-main{
-    background-color: brown;
-    color: burlywood;
+main {
+    background-color: rgb(182, 240, 46);
+    color: rgb(43, 241, 53);
     max-width: 800px;
-    margin: 0auto;
+    margin: 0 auto;
     padding: 16px;
 }
 
-article{
+article {
     display: flex;
 }
 
-img 
-    width: 80px
-    heigth: 80px;
-]
+img {
+    width: 80px;
+    height: 80px;
+}
 
-.artigo-autor
-    
-
-
-
-
-
-
-
-
-    
+.artigo-autor {
+    font-weight: bold;
+}
